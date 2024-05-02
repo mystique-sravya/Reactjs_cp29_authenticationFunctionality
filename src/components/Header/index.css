@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.navbar {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
